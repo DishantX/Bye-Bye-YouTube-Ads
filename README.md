@@ -1,6 +1,6 @@
 # Bye-Bye YouTube Ads
 
-A razor-focused userscript that makes YouTube video ads disappear—so you can dive straight into your favorite content without wasting a second.
+A razor-focused YouTube Ad Blocker script that makes YouTube video ads disappear—so you can dive straight into your favorite content without wasting a second.
 
 ---
 
