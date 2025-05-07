@@ -39,7 +39,7 @@ A razor-focused YouTube Ad Blocker script that makes YouTube video ads disappear
 
 > In your browser, click the Tampermonkey icon in the toolbar and choose “Create a new script…”
 
-> In the editor that opens, delete any boilerplate content and paste in the entire Bye-Bye YouTube Ads code from the .js file or install from https://greasyfork.org/en/scripts/535271-bye-bye-youtube-ads
+> Install the script from https://greasyfork.org/en/scripts/535271-bye-bye-youtube-ads
 
 > Click File ▷ Save, or hit Ctrl+S to save the script in Tampermonkey.
 
