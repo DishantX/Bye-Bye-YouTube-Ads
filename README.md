@@ -33,7 +33,7 @@ A razor-focused userscript that makes YouTube video ads disappear—so you can d
 
 1. **Add a Userscript Manager**
 
-> Install Tampermonkey (recommended) or Greasemonkey extension in your Chrome/Edge/Brave/Firefox browser.
+> Install Tampermonkey extension in your Chrome/Edge/Brave/Firefox browser.
 
 2. **Install the Script**
 
