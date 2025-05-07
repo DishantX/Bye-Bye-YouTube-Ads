@@ -38,13 +38,15 @@ A razor-focused userscript that makes YouTube video ads disappear—so you can d
 2. **Install the Script**
 
 > In your browser, click the Tampermonkey icon in the toolbar and choose “Create a new script…”
+
 > In the editor that opens, delete any boilerplate content and paste in the entire Bye-Bye YouTube Ads code from the .js file
+
 > Click File ▷ Save, or hit Ctrl+S to save the script in Tampermonkey.
 
 ## How It Feels
 
-> You know that moment when YouTube hits you with a 30-second ad?  
-> With Bye-Bye YouTube Ads, it’s like that moment never happened.
+- You know that moment when YouTube hits you with a 30-second ad?  
+- With Bye-Bye YouTube Ads, it’s like that moment never happened.
 
 ---
 
